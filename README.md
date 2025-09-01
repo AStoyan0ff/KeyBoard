@@ -12,7 +12,7 @@
 
 ### 📸 Преглед на проекта
 
-![Keypad Screenshot](<img width="1080" height="438" alt="image2" src="https://github.com/user-attachments/assets/ea9c48c9-5986-40e5-8176-21dc750b34a4" />)  
+![Keypad Screenshot]("C:\Users\HP\Desktop\KeyBoard\image2.png")  
 
 
 ---
