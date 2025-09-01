@@ -1,6 +1,7 @@
 <h1 align="center">
         👋 Project - KeyBoard!!!  
-        <br>
+         (https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGNhb3lkNzE0YXJiOHlmdWo2MGJoYWo0dzBqM2lvM2duczNicHNodCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oEduOg2WVGU1atrFe/giphy.gif)"> 
+        <br> 
     </h1>
 
 ---
@@ -36,8 +37,9 @@ Keypad/
 
 ├── keyboard.css 
 
-└── screenshots/
-    └── keypad.png  
+└── screenshots
+
+└── keypad.png  
     
 ---
 
