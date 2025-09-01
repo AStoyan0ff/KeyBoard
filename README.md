@@ -4,30 +4,30 @@
 
 ---
 
-✔ `Keypad` е уеб проект, който визуализира пълна компютърна клавиатура чрез `HTML` и `CSS`, със стилен и адаптивен дизайн. 
+✔ **Keypad** is a web project that visualizes a full computer keyboard using HTML and CSS, with a stylish and responsive design.
 
-✔ Проектът е подходящ за демонстрация на позициониране,гъвкави контейнери и стилове за интерактивни елементи.
+✔ The project is suitable for demonstrating positioning, flexible containers, and styles for interactive elements.
 
 ---
 
 ### 🔑 Характеристики:
 
-✔ Реалистична подредба на клавишите  
-✔ Използване на **Flexbox** за гъвкаво позициониране  
-✔ **Hover ефекти** и анимация при натискане на бутон  
-✔ Поддръжка на **адаптивен дизайн**  
-✔ Лесно персонализиране чрез `CSS`  
+✔ Realistic key layout  
+✔ Using **Flexbox** for flexible positioning  
+✔ **Hover effects** and button click animation  
+✔ **Responsive design** support  
+✔ Easy customization via `CSS` 
 
 ---
 
-### 🛠 Технологии:
+### 🛠 Technologies:
 
 - `HTML5`
 - `CSS3` **(Flexbox, Responsive Design)**
 
 ---
 
-### Структора на проекта:
+### Project structure:
 
 Keyboard
 │
