@@ -29,7 +29,7 @@
 
 ### Структора на проекта:
 
-Keypad/
+Keyboard
 │
 
 ├── index.html  
