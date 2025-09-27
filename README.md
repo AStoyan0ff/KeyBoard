@@ -4,7 +4,7 @@
 
 ---
 
-✔ **Keypad** is a web project that visualizes a full computer keyboard using HTML and CSS, with a stylish and responsive design.
+✔ **Keypad** is a web project that visualizes a full computer keyboard using `HTML` and `CSS`, with a stylish and responsive design.
 
 ✔ The project is suitable for demonstrating positioning, flexible containers, and styles for interactive elements.
 
